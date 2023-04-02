@@ -12,10 +12,10 @@ module.exports = {
     extend: {},
     colors: {
       'light-purple': '#b4a7d6',
+      'white': '#ffffff',
     },
     fontFamily: {
       sanfrancisco: ["San Francisco", "sans-serif"],
-
     },
   },
   plugins: [],
